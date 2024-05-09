@@ -25,7 +25,6 @@ This Github provides hardware design files for SIMCOM SIM7600 Module Breakout.
     ![SIM7600G-H-PCIE SIMCom Original 4G LTE Cat-4 Module](https://shop.sb-components.co.uk/cdn/shop/files/Untitled-2_f3c9baec-8553-4130-9c97-3dd20ba9cb49.jpg?v=1705302041&width=150)
 
 
-
        
 ## Product License
 
